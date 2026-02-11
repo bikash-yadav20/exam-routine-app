@@ -60,7 +60,7 @@ export default function ExamRoutine() {
 
     // Notes Section
     const notes = [
-      "1. The remaining oral/practical exam will be conducted between 16th to 27th March, 2026, for Class I to VIII.",
+      "1. The remaining oral/practical exam will be conducted between 16th February to 27th February, 2026, for Class I to VIII.",
       "2. UKG Rhymes (Oral).",
       "3. Admit Cards are available for Download starting today for students who have paid fees up to March, 2026.",
       "****(printed copy of the admit card must be brought.)****",
