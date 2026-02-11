@@ -63,6 +63,7 @@ export default function ExamRoutine() {
       "1. The remaining oral/practical exam will be conducted between 16th to 27th March, 2026, for Class I to VIII.",
       "2. UKG Rhymes (Oral).",
       "3. Admit Cards are available for Download starting today for students who have paid fees up to March, 2026.",
+      "****(printed copy of the admit card must be brought.)****",
       "4. Result Declaration Date: 18th March, 2026.",
       "5. Renewal Admission Schedule:",
       "   - 19/03/2026 (Nursery & LKG)",
